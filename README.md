@@ -6,7 +6,8 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
 ---
 # welcome! i'm hiram
 <p>
-> computer science undergrad @ utep ⛏ | cybersecurity
+> computer science undergrad @ utep ⛏ (4.0 gpa) | cybersecurity <br>
+> <strong>wip</strong> portfolio/blog website: <a href="https://hiramf0.github.io/">here!</a> 
 </p>
 
 ### cybersecurity platforms
@@ -22,6 +23,15 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
 </a>
 </p>
 
+### competitive programming
+i currently want to get into comp programming, so here are some relevant profiles (just starting out) <br>
+<br>
+<a href="https://leetcode.com/u/hiramf0/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge">
+</a>
+<a href="https://codeforces.com/profile/hiramf0">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=fff&style=for-the-badge">
+</a>
 
 ### other social media
 <p align="left">
@@ -33,7 +43,28 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
   </a>
 </p>
 
+## about me
+- computer science student at the university of texas at el paso (4.0 gpa)
+- top 2% on tryhackme, active on CTF competitions online
+- mainly interested on diving in to red teaming activities
+- certifications: net+ (expected september 2025) and google it support professional certificate.
+- bilingual: spanish and english
+
+## what im currently working on!
+| project        | description | relevant links |
+|----------------|---------------------| ------------------- |
+| net+ certification   | i will be taking the exam on september, currently studying (a lot) | <a href="https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8">professor messer's study guide n10-009</a>, <a href="https://www.udemy.com/course/comptia-network-n10-009-6-practice-exams-and-pbqs-set-1"> dion's practice exams (paid)</a>, <a href="https://www.examcompass.com/">free online quizzes for comptia certs</a> |
+| tryhackme soc1 path  | learning about the tools and methodologies to become a SOC1 analyst! (60% done) | <a href="https://tryhackme.com/path/outline/soclevel1">path on thm</a> |
+| hackthebox academy     | doing the pentester job role path to learn red teaming knowledge (40% done) | <a href="https://academy.hackthebox.com/path/preview/penetration-tester">path on htb (awesome student discount :>)</a> |
+| online CTFs    | playing online ctf competitions solo (i need a team) | <a href="https://ctftime.org/team/377028">my own ctf team</a> |
+| portfolio/blog | github pages website where i would host blog entries and writeups. sitting at 2 writeups currently... | <a href="https://hiramf0.github.io/">wip blog on github pages</a> |
+
+## fun facts
+- hackthebox academy has a student discount! its $8 a month to get access to all tier 0-2 modules, 100% worth it.
+- cryptography and encryption used to be considered military munitions by the USA, in the same level as ICBMs. for more info: <a href="https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States">wikipedia article</a>, <a href="https://darknetdiaries.com/episode/12/">podcast episode describing the civil rights fight for our encryption in the 90s</a>, and the search term "Crypto Wars" (not to be confused with crypto currency).
+- i really like ascii art !
+
 ---
 <p align="center">
-<img  width="171" height="89" alt="ascii art cat watching laptop" src="https://github.com/user-attachments/assets/e6b6afca-1d06-4c6c-81ee-492360819e7d">
+<img  width="171" height="89" alt="ascii art cat watching laptop (awesome)" src="https://github.com/user-attachments/assets/e6b6afca-1d06-4c6c-81ee-492360819e7d">
 </p>
