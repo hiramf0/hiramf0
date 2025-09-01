@@ -57,7 +57,7 @@ i currently want to get into competitive programming, so here are some relevant 
 | net+ certification   | i will be taking the exam on september, currently studying (a lot) | <a href="https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8">professor messer's study guide n10-009</a>, <a href="https://www.udemy.com/course/comptia-network-n10-009-6-practice-exams-and-pbqs-set-1"> dion's practice exams (paid)</a>, <a href="https://www.examcompass.com/">free online quizzes for comptia certs</a> |
 | tryhackme soc1 path  | learning about the tools and methodologies to become a SOC1 analyst! (60% done) | <a href="https://tryhackme.com/path/outline/soclevel1">path on tryhackme</a> |
 | hackthebox academy     | doing the pentester job role path to learn red teaming knowledge (40% done) | <a href="https://academy.hackthebox.com/path/preview/penetration-tester">path on hackthebox</a> |
-| online CTFs    | playing online ctf competitions solo (finding a CTF team would be great) | <a href="https://ctftime.org/team/377028">my own ctf team</a> |
+| online CTFs    | playing online ctf competitions solo (looking for a team) | <a href="https://ctftime.org/team/377028">my own ctf team</a> |
 | portfolio/blog | github pages website where i would host blog entries and writeups. sitting at 2 writeups currently... | <a href="https://hiramf0.github.io/">wip blog on github pages</a> |
 
 ## languages and tools i know
@@ -114,5 +114,6 @@ i currently want to get into competitive programming, so here are some relevant 
 
 ---
 <p align="center">
+<img src="https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=hiramf0"> <br>
 <img  width="171" height="89" alt="ascii art cat watching laptop (awesome)" src="https://github.com/user-attachments/assets/e6b6afca-1d06-4c6c-81ee-492360819e7d">
 </p>
