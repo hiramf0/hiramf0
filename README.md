@@ -114,6 +114,6 @@ i currently want to get into competitive programming, so here are some relevant 
 
 ---
 <p align="center">
-<img src="https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=hiramf0"> <br>
+<img src="https://komarev.com/ghpvc/?username=hiramf0&color=orange"> <br>
 <img  width="171" height="89" alt="ascii art cat watching laptop (awesome)" src="https://github.com/user-attachments/assets/e6b6afca-1d06-4c6c-81ee-492360819e7d">
 </p>
