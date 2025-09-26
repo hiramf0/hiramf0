@@ -7,7 +7,7 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
 # welcome! i'm hiram
 <p>
 > computer science undergrad @ utep ⛏ (4.0 gpa) | cybersecurity <br>
-> my resume (updated august 2025, cybersecurity oriented): <a href="https://drive.google.com/file/d/1x21m8p1PlkUelBuQCn5B6xddee2esuNx/view">here!</a><br>
+> my resume (updated september 2025): <a href="https://drive.google.com/file/d/1cub2QBAxA1DdFn84qsBvAraYaiOo8MCV/view?usp=sharing">here!</a><br>
 > <strong>wip</strong> portfolio/blog website: <a href="https://hiramf0.github.io/">here!</a> 
 </p>
 
@@ -48,17 +48,17 @@ i currently want to get into competitive programming, so here are some relevant 
 - computer science student at the university of texas at el paso (4.0 gpa)
 - top 2% on tryhackme, active on CTF competitions online
 - mainly interested on diving into red teaming activities
-- certifications: `net+` (expected september 2025) and `google it support professional certificate` (<a href="https://www.credly.com/badges/5f40d3b7-9571-4bff-a76f-53cf6ad8b829/public_url">badge</a>).
+- certifications: `net+` (<a href="https://www.credly.com/badges/46d302c7-d92f-46af-8023-ec958232765b/public_url">badge</a>) and `google it support professional certificate` (<a href="https://www.credly.com/badges/5f40d3b7-9571-4bff-a76f-53cf6ad8b829/public_url">badge</a>).
 - bilingual: spanish and english
 
 ## what im currently working on!
 | project        | description | relevant links |
 |----------------|---------------------| ------------------- |
-| net+ certification   | i will be taking the exam on september, currently studying (a lot) | <a href="https://www.youtube.com/watch?v=k7IOn3TiUc8&list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8">professor messer's study guide n10-009</a>, <a href="https://www.udemy.com/course/comptia-network-n10-009-6-practice-exams-and-pbqs-set-1"> dion's practice exams (paid)</a>, <a href="https://www.examcompass.com/">free online quizzes for comptia certs</a> |
-| tryhackme soc1 path  | learning about the tools and methodologies to become a SOC1 analyst! (60% done) | <a href="https://tryhackme.com/path/outline/soclevel1">path on tryhackme</a> |
-| hackthebox academy     | doing the pentester job role path to learn red teaming knowledge (40% done) | <a href="https://academy.hackthebox.com/path/preview/penetration-tester">path on hackthebox</a> |
+| sec+ certification   | entry level cert, hoping i can be ready by november | <a href="https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv">professor messer's SY0-701 course</a>  |
+| tryhackme soc1 path  | learning about the tools and methodologies to become a SOC1 analyst! (65% done) | <a href="https://tryhackme.com/path/outline/soclevel1">path on tryhackme</a> |
+| hackthebox academy     | doing the pentester job role path to learn red teaming knowledge (45% done) | <a href="https://academy.hackthebox.com/path/preview/penetration-tester">path on hackthebox</a> |
 | online CTFs    | playing online ctf competitions solo (looking for a team) | <a href="https://ctftime.org/team/377028">my own ctf team</a> |
-| portfolio/blog | github pages website where i would host blog entries and writeups. sitting at 2 writeups currently... | <a href="https://hiramf0.github.io/">wip blog on github pages</a> |
+| portfolio/blog | github pages website where i would host blog entries and writeups. a revamp is necessary... | <a href="https://hiramf0.github.io/">wip blog on github pages</a> |
 
 ## languages and tools i know
 ### languages
