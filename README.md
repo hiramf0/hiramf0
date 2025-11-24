@@ -7,7 +7,7 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
 # welcome! i'm hiram
 <p>
 > computer science undergrad @ utep ⛏ (4.0 gpa) | cybersecurity <br>
-> my resume (updated september 2025): <a href="https://drive.google.com/file/d/1cub2QBAxA1DdFn84qsBvAraYaiOo8MCV/view?usp=sharing">here!</a><br>
+> my resume (updated november 2025): <a href="https://drive.google.com/file/d/1lNsiqyMPfDyfBcexIABJKIeg9HaHjV1V/view?usp=sharing">here!</a><br>
 > <strong>wip</strong> portfolio/blog website: <a href="https://hiramf0.github.io/">here!</a> 
 </p>
 
@@ -23,16 +23,6 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
   <img src="https://img.shields.io/badge/CTF%20Time-E3000B?style=for-the-badge">
 </a>
 </p>
-
-### competitive programming
-i currently want to get into competitive programming, so here are some relevant profiles (just starting out) <br>
-<br>
-<a href="https://leetcode.com/u/hiramf0/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge">
-</a>
-<a href="https://codeforces.com/profile/hiramf0">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=fff&style=for-the-badge">
-</a>
 
 ### other social media
 <p align="left">
@@ -54,11 +44,11 @@ i currently want to get into competitive programming, so here are some relevant 
 ## what im currently working on!
 | project        | description | relevant links |
 |----------------|---------------------| ------------------- |
-| sec+ certification   | entry level cert, hoping i can be ready by november | <a href="https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv">professor messer's SY0-701 course</a>  |
-| tryhackme soc1 path  | learning about the tools and methodologies to become a SOC1 analyst! (65% done) | <a href="https://tryhackme.com/path/outline/soclevel1">path on tryhackme</a> |
+| sec+ certification   | entry level cert, planning on taking the exam on december | <a href="https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv">professor messer's SY0-701 course</a>  |
+| tryhackme soc1 path  | learning about the tools and methodologies to become a SOC1 analyst! (40% done) | <a href="https://tryhackme.com/path/outline/soclevel1">path on tryhackme</a> |
 | hackthebox academy     | doing the pentester job role path to learn red teaming knowledge (45% done) | <a href="https://academy.hackthebox.com/path/preview/penetration-tester">path on hackthebox</a> |
 | online CTFs    | playing online ctf competitions solo (looking for a team) | <a href="https://ctftime.org/team/377028">my own ctf team</a> |
-| portfolio/blog | github pages website where i would host blog entries and writeups. a revamp is necessary... | <a href="https://hiramf0.github.io/">wip blog on github pages</a> |
+| portfolio/blog | github pages website where i would host blog entries and writeups | <a href="https://hiramf0.github.io/">wip blog on github pages</a> |
 
 ## languages and tools i know
 ### languages
