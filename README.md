@@ -7,7 +7,7 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
 # welcome! i'm hiram
 <p>
 > computer science undergrad @ utep ⛏ (4.0 gpa) | cybersecurity <br>
-> my resume (updated november 2025): <a href="https://drive.google.com/file/d/1lNsiqyMPfDyfBcexIABJKIeg9HaHjV1V/view?usp=sharing">here!</a><br>
+> my resume (updated december 2025): <a href="https://drive.google.com/file/d/1eFoaoSUYvFC55FWqiyBfPrbbVerSuUbc/view?usp=sharing">here!</a><br>
 > <strong>wip</strong> portfolio/blog website: <a href="https://hiramf0.github.io/">here!</a> 
 </p>
 
