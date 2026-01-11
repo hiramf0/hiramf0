@@ -20,9 +20,19 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
   <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge" alt="Hack The Box Badge">
 </a>
 <a href="https://ctftime.org/user/227014">
-  <img src="https://img.shields.io/badge/CTF%20Time-E3000B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CTF%20Time-E3000B?style=for-the-badge" alt="CTF Time Badge">
 </a>
 </p>
+
+### ctf platforms
+wechall serves as a central hub to keep track of my scores across many platforms, so check my wechall profile for my progress across many CTF platforms, especially those without a login system (e.g. overthewire)
+<br>
+<a href="https://www.wechall.net//profile/hiramf0">
+<img src="https://img.shields.io/badge/We%20Chall-102538?style=for-the-badge" alt="WeChall Badge">
+</a>
+<a href="https://www.root-me.org/hiramf0?lang=en">
+    <img src="https://img.shields.io/badge/Root%20Me-000?logo=rootme&logoColor=fff&style=for-the-badge" alt="Root Me Badge">
+</a>
 
 ### other social media
 <p align="left">
@@ -36,15 +46,15 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
 
 ## about me
 - computer science student at the university of texas at el paso (4.0 gpa)
-- top 2% on tryhackme, active on CTF competitions online
-- mainly interested on diving into red teaming activities
-- certifications: `net+` (<a href="https://www.credly.com/badges/46d302c7-d92f-46af-8023-ec958232765b/public_url">badge</a>) and `google it support professional certificate` (<a href="https://www.credly.com/badges/5f40d3b7-9571-4bff-a76f-53cf6ad8b829/public_url">badge</a>).
+- top 1% on tryhackme, active on CTF competitions online
+- interested in security research and SOC operations
+- certifications: `sec+` (<a href="https://www.credly.com/badges/d9bc9799-18e1-4a2a-90a0-efa34ff06e64/public_url">badge</a>), `net+` (<a href="https://www.credly.com/badges/46d302c7-d92f-46af-8023-ec958232765b/public_url">badge</a>) and `google it support professional certificate` (<a href="https://www.credly.com/badges/5f40d3b7-9571-4bff-a76f-53cf6ad8b829/public_url">badge</a>).
 - bilingual: spanish and english
 
 ## what im currently working on!
 | project        | description | relevant links |
 |----------------|---------------------| ------------------- |
-| sec+ certification   | entry level cert, planning on taking the exam on december | <a href="https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv">professor messer's SY0-701 course</a>  |
+| ccna certification   | cert for networking, great for finding a job at a NOC | <a href="https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ">jeremy's IT lab (video lectures, labs and anki flashcards for free!!)</a>  |
 | tryhackme soc1 path  | learning about the tools and methodologies to become a SOC1 analyst! (40% done) | <a href="https://tryhackme.com/path/outline/soclevel1">path on tryhackme</a> |
 | hackthebox academy     | doing the pentester job role path to learn red teaming knowledge (45% done) | <a href="https://academy.hackthebox.com/path/preview/penetration-tester">path on hackthebox</a> |
 | online CTFs    | playing online ctf competitions solo (looking for a team) | <a href="https://ctftime.org/team/377028">my own ctf team</a> |
