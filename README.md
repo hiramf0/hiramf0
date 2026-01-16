@@ -7,42 +7,32 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
 # welcome! i'm hiram
 <p>
 > computer science undergrad @ utep ⛏ (4.0 gpa) | cybersecurity <br>
-> my resume (updated december 2025): <a href="https://drive.google.com/file/d/1eFoaoSUYvFC55FWqiyBfPrbbVerSuUbc/view?usp=sharing">here!</a><br>
+> my resume (updated january 2026): <a href="https://drive.google.com/file/d/15HS0GVlwaxUm4i5t9oYKdvZKzdUkn5D8/view?usp=sharing">here!</a><br>
 > <strong>wip</strong> portfolio/blog website: <a href="https://hiramf0.github.io/">here!</a> 
 </p>
 
 ### cybersecurity platforms
-<p align="left">
-<a href="https://tryhackme.com/p/hiramf0">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
-</a>
-<a href="https://app.hackthebox.com/profile/2300557">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge" alt="Hack The Box Badge">
-</a>
-<a href="https://ctftime.org/user/227014">
-  <img src="https://img.shields.io/badge/CTF%20Time-E3000B?style=for-the-badge" alt="CTF Time Badge">
-</a>
-</p>
+
+| name | description | rank | other notes |
+|----------|----------------|--------|----------|
+| <a href="https://tryhackme.com/p/hiramf0"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"></a> | guided, hands-on cybersecurity learning platform with beginner to advanced labs covering blue team, red team, and CTF-style challenges. | top 1%! ~#15000 | great for structured learning paths |
+| <a href="https://app.hackthebox.com/profile/2300557"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge" alt="Hack The Box Badge"></a> | advanced penetration testing and cybersecurity platform featuring realistic vulnerable machines, challenges, and competitive labs | hoping to get start playing ranked on season 10 | i mostly do sherlocks (blue-team investigations) here |
+| <a href="https://ctftime.org/user/227014"><img src="https://img.shields.io/badge/CTF%20Time-E3000B?style=for-the-badge" alt="CTF Time Badge"></a> | global CTF competition tracker that aggregates events, team rankings, and results from CTF competitions worldwide. | check my profile for my individual ranking on many CTF events  | useful for tracking competitions & rankings |
+
 
 ### ctf platforms
-wechall serves as a central hub to keep track of my scores across many platforms, so check my wechall profile for my progress across many CTF platforms, especially those without a login system (e.g. overthewire)
-<br>
-<a href="https://www.wechall.net//profile/hiramf0">
-<img src="https://img.shields.io/badge/We%20Chall-102538?style=for-the-badge" alt="WeChall Badge">
-</a>
-<a href="https://www.root-me.org/hiramf0?lang=en">
-    <img src="https://img.shields.io/badge/Root%20Me-000?logo=rootme&logoColor=fff&style=for-the-badge" alt="Root Me Badge">
-</a>
+
+| name | description | rank | other notes |
+|------|-------------|------|-------------|
+| <a href="https://www.wechall.net//profile/hiramf0"><img src="https://img.shields.io/badge/We%20Chall-102538?style=for-the-badge" alt="WeChall Badge"></a> | ~#2600 | WeChall is a platform that aggregates and tracks progress across multiple CTF and wargame websites | find all of my progress in CTF/wargames here! |
+| <a href="https://www.root-me.org/hiramf0?lang=en"><img src="https://img.shields.io/badge/Root%20Me-000?logo=rootme&logoColor=fff&style=for-the-badge" alt="Root Me Badge"></a> | ~#193000 | root-me is a CTF and wargame platform focused on a variety of CTF challenges | aimed at beginner to intermediate CTF players, hosted in France! |
+
 
 ### other social media
-<p align="left">
-  <a href="https://www.linkedin.com/in/hiram-f-tostado/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hftostado@miners.utep.edu">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+| name | description | other notes |
+| ---- | ----------  | ----------- |
+| <a href="https://www.linkedin.com/in/hiram-f-tostado/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>| linkedin is a site for professional networking and career advancement | you can connect with me here! |
+| <a href="mailto:hftostado@miners.utep.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> | digital messages through electronic mail | this is my university email address |
 
 ## about me
 - computer science student at the university of texas at el paso (4.0 gpa)
@@ -55,8 +45,8 @@ wechall serves as a central hub to keep track of my scores across many platforms
 | project        | description | relevant links |
 |----------------|---------------------| ------------------- |
 | ccna certification   | cert for networking, great for finding a job at a NOC | <a href="https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ">jeremy's IT lab (video lectures, labs and anki flashcards for free!!)</a>  |
-| tryhackme soc1 path  | learning about the tools and methodologies to become a SOC1 analyst! (40% done) | <a href="https://tryhackme.com/path/outline/soclevel1">path on tryhackme</a> |
-| hackthebox academy     | doing the pentester job role path to learn red teaming knowledge (45% done) | <a href="https://academy.hackthebox.com/path/preview/penetration-tester">path on hackthebox</a> |
+| tryhackme soc1 path  | learning about the tools and methodologies to become a SOC1 analyst! (70% done) | <a href="https://tryhackme.com/path/outline/soclevel1">path on tryhackme</a> |
+| hackthebox academy     | doing the pentester job role path to learn red teaming knowledge (50% done) | <a href="https://academy.hackthebox.com/path/preview/penetration-tester">path on hackthebox</a> |
 | online CTFs    | playing online ctf competitions solo (looking for a team) | <a href="https://ctftime.org/team/377028">my own ctf team</a> |
 | portfolio/blog | github pages website where i would host blog entries and writeups | <a href="https://hiramf0.github.io/">wip blog on github pages</a> |
 
