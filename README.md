@@ -15,7 +15,7 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
 
 | name | description | rank | other notes |
 |----------|----------------|--------|----------|
-| <a href="https://tryhackme.com/p/hiramf0"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"></a> | guided, hands-on cybersecurity learning platform with beginner to advanced labs covering blue team, red team, and CTF-style challenges. | top 1%! ~#15000 | great for structured learning paths |
+| <a href="https://tryhackme.com/p/hiramf0"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"></a> | guided, hands-on cybersecurity learning platform with beginner to advanced labs covering blue team, red team, and CTF-style challenges. | top 1%! ~#14000 | great for structured learning paths |
 | <a href="https://app.hackthebox.com/profile/2300557"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge" alt="Hack The Box Badge"></a> | advanced penetration testing and cybersecurity platform featuring realistic vulnerable machines, challenges, and competitive labs | hoping to get start playing ranked on season 10 | i mostly do sherlocks (blue-team investigations) here |
 | <a href="https://ctftime.org/user/227014"><img src="https://img.shields.io/badge/CTF%20Time-E3000B?style=for-the-badge" alt="CTF Time Badge"></a> | global CTF competition tracker that aggregates events, team rankings, and results from CTF competitions worldwide. | check my profile for my individual ranking on many CTF events  | useful for tracking competitions & rankings |
 
@@ -24,7 +24,7 @@ source: <a href="https://patorjk.com/misc/scrollingtext/timewaster.php">patorjk.
 
 | name | description | rank | other notes |
 |------|-------------|------|-------------|
-| <a href="https://www.wechall.net//profile/hiramf0"><img src="https://img.shields.io/badge/We%20Chall-102538?style=for-the-badge" alt="WeChall Badge"></a> | WeChall is a platform that aggregates and tracks progress across multiple CTF and wargame websites | ~#2600 | find all of my progress in CTF/wargames here! |
+| <a href="https://www.wechall.net//profile/hiramf0"><img src="https://img.shields.io/badge/We%20Chall-102538?style=for-the-badge" alt="WeChall Badge"></a> | WeChall is a platform that aggregates and tracks progress across multiple CTF and wargame websites | ~#2000 | find all of my progress in CTF/wargames here! |
 | <a href="https://play.picoctf.org/users/hiramf0"><img src="https://img.shields.io/badge/picoCTF-bc1633?style=for-the-badge" alt="PicoCTF Badge"></a> | picoCTF is a beginner-friendly CTF platform aimed at beginners and students | N/A | hosted by CMU!
 | <a href="https://www.root-me.org/hiramf0?lang=en"><img src="https://img.shields.io/badge/Root%20Me-000?logo=rootme&logoColor=fff&style=for-the-badge" alt="Root-Me Badge"></a> | root-me is a CTF and wargame platform focused on a variety of CTF challenges | ~#193000 | aimed at beginner to intermediate CTF players, hosted in France! |
 
